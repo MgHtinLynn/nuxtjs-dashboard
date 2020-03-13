@@ -20,7 +20,7 @@
       {{ (new Date()).getFullYear() }}
       <a
         href="https://www.creative-tim.com/"
-        target="_blank">Creative Tim</a>, made with
+        target="_blank">Htin Lynn</a>, made with
       <v-icon
         color="tertiary"
         size="17">mdi-heart</v-icon>
@@ -34,9 +34,7 @@ export default {
   data: () => ({
     links: [
       { name: 'Dashboard', Link: '/dashboard' },
-      { name: 'Creative Tim', Link: 'https://www.creative-tim.com' },
-      { name: 'About Us', Link: 'https://creative-tim.com/presentation' },
-      { name: 'Blog', Link: 'https://blog.creative-tim.com' }
+      { name: 'Htin Lynn', Link: 'https://mghtinlynn.github.io/HtinLynn/' }
     ]
   })
 }
